@@ -59,40 +59,6 @@ I'm a **Blockchain Developer** specializing in smart contract development and We
 
 ---
 
-## 🚀 Featured Projects
-
-### 💸 [Employee Payroll Manager](https://github.com/04arush/Employee-Payroll-Manager) — Automated Salary Payment System
-`Solidity` · `Foundry` · `Chainlink Automation` · `OpenZeppelin`
-
-A fully decentralized payroll system that automates salary payments on-chain with configurable frequencies (daily, weekly, monthly).
-- Integrated **Chainlink Keepers** to trigger payments automatically — zero manual intervention
-- Secured with **OpenZeppelin ReentrancyGuard** and owner-only access control
-- Supports batch payments, custom schedules, and a secure fund vault
-- Deployed and verified on **Sepolia testnet** using Foundry + Alchemy RPC + Etherscan API
-
----
-
-### 🏠 [Real Estate Management](https://github.com/04arush/Real-Estate-Management) — Blockchain Property Platform
-`Solidity` · `Hardhat` · `Remix IDE`
-
-A comprehensive on-chain real estate platform for property registration, buying/selling, and lease management on Ethereum.
-- Unique blockchain IDs with transparent, immutable ownership history
-- Automated rent collection, security deposit management, and flexible lease durations
-- Peer-to-peer purchases and automatic ownership transfers without intermediaries
-- Access control modifiers, input validation, and comprehensive state transition testing
-
----
-
-### 🎟️ [Event Organiser](https://github.com/04arush/Event-Organiser) — Decentralized Event Management System
-`Solidity` · `Smart Contracts` · `Remix IDE` · `Ethereum`
-
-A decentralized ticketing platform enabling event creation, ticket sales, and Wei-based transfers on Ethereum blockchain.
-- Robust state management tracking ticket sales, availability, and user balances per event
-- Security best practices: date validation, value matching, and supply-check require statements
-- Organizers configure event parameters; users can purchase multiple tickets in a single transaction
-
----
-
 ## 📜 Certifications
 
 | Certification | Issuer | Date |
