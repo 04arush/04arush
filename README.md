@@ -80,20 +80,3 @@ I'm a **Blockchain Developer** specializing in smart contract development and We
 ![GitHub Streak](https://streak-stats.demolab.com?user=04arush&theme=dark&hide_border=true&background=0D1117&ring=F16822&fire=F16822&currStreakLabel=FFFFFF)
 
 </div>
-
----
-
-## 🎓 Education
-
-**Bachelor of Computer Applications — Computer Science**  
-Indira Gandhi National Open University (IGNOU), New Delhi · Aug 2023 – Jul 2026
-
----
-
-<div align="center">
-
-**💼 Actively open to Blockchain Developer · Smart Contract Developer · Web3 Developer · DeFi Engineer roles**
-
-*Open to relocate nationally & internationally · Remote friendly*
-
-</div>
