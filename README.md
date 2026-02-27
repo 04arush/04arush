@@ -77,10 +77,6 @@ I'm a **Blockchain Developer** specializing in smart contract development and We
 
 <div align="center">
 
-[![Arush's GitHub stats](https://github-readme-stats.vercel.app/api?username=04arush&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=04arush&layout=pie&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=04arush&theme=dark&hide_border=true&background=0D1117&ring=F16822&fire=F16822&currStreakLabel=FFFFFF)
 
 </div>
