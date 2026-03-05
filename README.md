@@ -63,10 +63,9 @@ I'm a **Blockchain Developer** specializing in smart contract development and We
 
 | Certification | Issuer | Date |
 |--------------|--------|------|
-| 🌐 Solana Development | Cyfrin Updraft | Expected Feb 2026 |
-| [🦀 Rust Programming Basics](https://profiles.cyfrin.io/u/arush/achievements/rust-programming-basics) | Cyfrin Updraft | Feb 2026 |
-| 🔗 Foundry Fundamentals | Cyfrin Updraft | Expected Feb 2026 |
+| 🔗 Foundry Fundamentals | Cyfrin Updraft | Expected Mar 2026 |
 | [📝 Solidity Smart Contract Development](https://profiles.cyfrin.io/u/arush/achievements/solidity) | Cyfrin Updraft | Jan 2026 |
+| [🦀 Rust Programming Basics](https://profiles.cyfrin.io/u/arush/achievements/rust-programming-basics) | Cyfrin Updraft | Feb 2026 |
 | [🔐 Advanced Web3 Wallet Security](https://profiles.cyfrin.io/u/arush/achievements/advanced-web3-wallet-security) | Cyfrin Updraft | Feb 2026 |
 | [🛡️ Web3 Wallet Security Basics](https://profiles.cyfrin.io/u/arush/achievements/web3-wallet-security-basics) | Cyfrin Updraft | Feb 2026 |
 | [⛓️ Blockchain Basics](https://profiles.cyfrin.io/u/arush/achievements/blockchain-basics) | Cyfrin Updraft | Dec 2025 |
