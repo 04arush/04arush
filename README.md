@@ -14,10 +14,10 @@
 
 I'm a **Blockchain Developer** specializing in smart contract development and Web3 technologies. I build production-ready decentralized applications — from automated payroll systems to real estate platforms and event ticketing on Ethereum.
 
-- 🔭 Currently expanding into **Rust**, **Solana**, and **Arbitrum Stylus** for multi-chain development
-- 🛡️ Strong focus on **smart contract security** — reentrancy protection, access control, and input validation
+- 🔭 Currently practicing into **DeFi** and **Auditing** for Security and peer-to-peer systems.
+- 🛡️ Strong focus on **Smart Contract Security** — Reentrancy protection, access control, and input validation
 - 📊 Background in **data science and machine learning**, bringing analytical thinking to blockchain engineering
-- 💼 **Actively seeking** Blockchain Developer, Smart Contract Developer, Web3 Developer, or DeFi Engineer roles
+- 💼 **Actively seeking** Blockchain Developer, Smart Contract Developer & Auditor, or DeFi Engineer roles
 - 🌍 Open to relocate nationally & internationally · Remote friendly
 
 ---
@@ -30,7 +30,6 @@ I'm a **Blockchain Developer** specializing in smart contract development and We
 
 ![Smart Contracts](https://img.shields.io/badge/Smart_Contracts-363636?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
 ![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=Chainlink&logoColor=white)
 ![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=OpenZeppelin&logoColor=white)
 
@@ -39,7 +38,6 @@ I'm a **Blockchain Developer** specializing in smart contract development and We
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Security & Auditing**
@@ -50,7 +48,6 @@ I'm a **Blockchain Developer** specializing in smart contract development and We
 **Development Tools**
 
 ![Foundry](https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=ethereum&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=ethereum&logoColor=black)
 ![Remix IDE](https://img.shields.io/badge/Remix_IDE-000000?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -63,7 +60,8 @@ I'm a **Blockchain Developer** specializing in smart contract development and We
 
 | Certification | Issuer | Date |
 |--------------|--------|------|
-| 🔗 Foundry Fundamentals | Cyfrin Updraft | Expected Mar 2026 |
+| 🦄 Uniswap V2 | Cyfrin Updraft | Expected Mar 2026 |
+| ⚒️ Foundry Fundamentals | Cyfrin Updraft | Expected Mar 2026 |
 | [📝 Solidity Smart Contract Development](https://profiles.cyfrin.io/u/arush/achievements/solidity) | Cyfrin Updraft | Jan 2026 |
 | [🦀 Rust Programming Basics](https://profiles.cyfrin.io/u/arush/achievements/rust-programming-basics) | Cyfrin Updraft | Feb 2026 |
 | [🔐 Advanced Web3 Wallet Security](https://profiles.cyfrin.io/u/arush/achievements/advanced-web3-wallet-security) | Cyfrin Updraft | Feb 2026 |
