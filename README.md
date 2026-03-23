@@ -60,6 +60,7 @@ I'm a **Blockchain Developer** specializing in smart contract development and We
 
 | Certification | Issuer | Date |
 |--------------|--------|------|
+| 🚨 Smart Contract Security | Cyfrin Updraft | Expected Apr 2026 |
 | 🏗 Advanced Foundry | Cyfrin Updraft | Expected Mar 2026 |
 | [⚒️ Foundry Fundamentals](https://profiles.cyfrin.io/u/arush/achievements/foundry) | Cyfrin Updraft | Mar 2026 |
 | [📝 Solidity Smart Contract Development](https://profiles.cyfrin.io/u/arush/achievements/solidity) | Cyfrin Updraft | Jan 2026 |
