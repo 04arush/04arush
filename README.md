@@ -61,7 +61,7 @@ I'm a **Blockchain Developer** specializing in smart contract development and We
 | Certification | Issuer | Date |
 |--------------|--------|------|
 | 💎 Noir Programming And ZK Circuits | Cyfrin Updraft | Expected Apr 2026 |
-| 🧾 Fundamentals of Zero-Knowledge Proofs | Cyfrin Updraft | Expected Apr 2026 |
+| [🧾 Fundamentals of Zero-Knowledge Proofs](https://profiles.cyfrin.io/u/arush/achievements/fundamentals-of-zero-knowledge-proofs) | Cyfrin Updraft | Mar 2026 |
 | [🏗 Advanced Foundry](https://profiles.cyfrin.io/u/arush/achievements/advanced-foundry) | Cyfrin Updraft | Mar 2026 |
 | [⚒️ Foundry Fundamentals](https://profiles.cyfrin.io/u/arush/achievements/foundry) | Cyfrin Updraft | Mar 2026 |
 | [📝 Solidity Smart Contract Development](https://profiles.cyfrin.io/u/arush/achievements/solidity) | Cyfrin Updraft | Jan 2026 |
