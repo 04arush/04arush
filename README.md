@@ -1,4 +1,4 @@
-<h1 align="center">Arush Singh</h1>
+<h1 align="center">Hey, I'm Arush! 👋</h1>
 <h3 align="center">ZK Engineer in Progress · Smart Contract Developer</h3>
 
 <p align="center">
