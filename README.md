@@ -5,6 +5,7 @@
   <a href="https://linkedin.com/in/04arush/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/04arush"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="mailto:04arush@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/04arush/04arush/raw/main/resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-6E40C9?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=04arush&color=6E40C9&style=for-the-badge&label=PROFILE+VIEWS"/>
 </p>
 
