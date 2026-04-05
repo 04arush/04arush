@@ -29,6 +29,7 @@ Currently working through **Noir** (Aztec's ZK DSL) and ZK circuit design after 
 <div align="center">
 
 ![Noir](https://img.shields.io/badge/Noir-6E40C9?style=for-the-badge&logo=ethereum&logoColor=white)
+![Barretenberg](https://img.shields.io/badge/Barretenberg-4B0082?style=for-the-badge&logo=ethereum&logoColor=white)
 ![SNARKs](https://img.shields.io/badge/SNARKs-4B0082?style=for-the-badge&logo=ethereum&logoColor=white)
 ![STARKs](https://img.shields.io/badge/STARKs-8B00FF?style=for-the-badge&logo=ethereum&logoColor=white)
 ![ZK Rollups](https://img.shields.io/badge/ZK_Rollups-5C2D91?style=for-the-badge&logo=ethereum&logoColor=white)
@@ -62,15 +63,15 @@ Currently working through **Noir** (Aztec's ZK DSL) and ZK circuit design after 
 
 ## Featured Projects
 
+**[ZK Undercollateralized Lending Protocol](https://github.com/04arush/ZK-Lending-Protocol)** — `Noir · Barretenberg · Solidity · Foundry · Next.js`
+> A Noir circuit proves `credit_score ≥ 700 && income ≥ 50,000` without revealing either value on-chain. Valid ZK proof unlocks a **50% collateral ratio** vs. the DeFi standard of 150%. Proof generation runs fully in-browser via Barretenberg WASM — private inputs never leave the user's device. `UltraVerifier.sol` is generated directly from the compiled circuit. 3-layer Foundry test suite: unit · fuzz (256 runs) · invariant (**128,000 actions, 6 invariants**) · **100% line/branch coverage**.
+
 **[Raffle Contest](https://github.com/04arush/Raffle-Contest)** — `Solidity · Chainlink VRF v2.5 · Chainlink Automation · Foundry`
 > Provably fair on-chain raffle with verifiable randomness and fully autonomous winner selection. HelperConfig pattern for Anvil/Sepolia deployment. Extensively unit + fuzz tested.
 
 **[AMM DEX](https://github.com/04arush/AMM-DEX)** — `Solidity · OpenZeppelin · ERC-20 · Foundry`
 > Constant-product AMM (x·y=k) with LP token minting, 0.3% swap fee, slippage protection, and reentrancy guards. Web3 frontend included. 10 tests passing.
-
-**[Employee Payroll Manager](https://github.com/04arush/Employee-Payroll-Manager)** — `Solidity · Chainlink Automation · OpenZeppelin · Foundry`
-> Automated on-chain payroll with configurable payment frequencies and trustless disbursement via Chainlink Automation. Secured with ReentrancyGuard and Ownable.
-
+> 
 ---
 
 ## Certifications
