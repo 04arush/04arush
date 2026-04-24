@@ -14,7 +14,7 @@
 
 I'm a blockchain developer on a deliberate path toward **ZK engineering**. Right now I'm building depth across two tracks in parallel — writing production-grade smart contracts with Foundry, and learning the cryptographic foundations that power ZK systems (SNARKs, STARKs, polynomial commitments, finite fields).
 
-Currently working through **Noir** (Aztec's ZK DSL) and ZK circuit design after completing Cyfrin's ZK Fundamentals course. Long-term, I'm heading toward ZK protocol engineering and ZK rollup infrastructure.
+Currently working through **Noir** (Aztec's ZK DSL), **Circom** and ZK circuit design. Long-term, I'm heading toward ZK protocol engineering and ZK rollup infrastructure.
 
 - 🔬 **Actively learning:** Noir · ZK circuits · proof systems · elliptic curve cryptography
 - ⚒️ **Strong foundation:** Solidity · Foundry · DeFi mechanics · Chainlink integrations
@@ -78,7 +78,7 @@ Currently working through **Noir** (Aztec's ZK DSL) and ZK circuit design after 
 
 | | Certification | Issuer | Date |
 |--|--------------|--------|------|
-| 🔮 | Noir Programming & ZK Circuits *(in progress)* | Cyfrin Updraft | Est. Apr 2026 |
+| ✅ | [Noir Programming & ZK Circuits](https://profiles.cyfrin.io/u/arush/achievements/noir-programming-and-zk-circuits) | Cyfrin Updraft | Apr 2026 |
 | ✅ | [Fundamentals of Zero-Knowledge Proofs](https://profiles.cyfrin.io/u/arush/achievements/fundamentals-of-zero-knowledge-proofs) | Cyfrin Updraft | Mar 2026 |
 | ✅ | [Advanced Foundry](https://profiles.cyfrin.io/u/arush/achievements/advanced-foundry) | Cyfrin Updraft | Mar 2026 |
 | ✅ | [Foundry Fundamentals](https://profiles.cyfrin.io/u/arush/achievements/foundry) | Cyfrin Updraft | Mar 2026 |
