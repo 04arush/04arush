@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Arush! 👋</h1>
-<h3 align="center">Smart Contract & ZK Engineer</h3>
+<h3 align="center">Smart Contract & Zero-Knowledge Engineer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/04arush/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
