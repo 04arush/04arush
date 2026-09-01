@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Arush! 👋</h1>
+<h1 align="center">Hey, I'm Arush!</h1>
 <h3 align="center">Zero-Knowledge Engineer & Smart Contract Developer</h3>
 
 <p align="center">
@@ -18,11 +18,11 @@ I'm a blockchain developer specializing in Solidity Smart Contract development a
 
 My on-chain proof verification leverages Barretenberg UltraHonk, and my testing methodology is grounded in security principles like invariant and fuzz testing.
 
-- 🔬 **Actively building:** Noir circuits · Barretenberg UltraHonk verifiers · Merkle Sum Trees · Poseidon Hashing
-- ⚒️ **Strong foundation:** Solidity · Foundry · DeFi mechanics · TypeScript · Ethernaut security basics
-- 🛡️ **Security mindset:** reentrancy, access control, invariant testing, fuzz testing
-- 🌍 Based in New Delhi, India · Open to relocation & Remote friendly
-- 💼 Targeting **ZK Engineer** and **Smart Contract Developer** roles
+- **Actively building:** Noir circuits · Barretenberg UltraHonk verifiers · Merkle Sum Trees · Poseidon Hashing
+- **Strong foundation:** Solidity · Foundry · DeFi mechanics · TypeScript · Ethernaut security basics
+- **Security mindset:** reentrancy, access control, invariant testing, fuzz testing
+- Based in New Delhi, India · Open to relocation & Remote friendly
+- Targeting **ZK Engineer** and **Smart Contract Developer** roles
 
 ---
 
@@ -79,12 +79,12 @@ My on-chain proof verification leverages Barretenberg UltraHonk, and my testing 
 
 ## Hackathons & Education
 
-### 🏆 Hackathons
+### Hackathons
 *   **ETHOnline 2026** - ETHGlobal Async Hackathon (Upcoming)
 *   **Frostbyte Hackathon Finale** — Devpost Online Participation Award. Advanced to the finale by building the ZK-Powered Undercollateralized Lending Protocol.
 *   **Frostbyte Hackathon Qualifier** — Devpost Online Participation & Completion Recognition. Submitted an Employee Payroll Manager powered by Chainlink Automation.
 
-### 🎓 Education
+### Education
 *   **Indira Gandhi National Open University (IGNOU)** — Bachelor's in Computer Application (Aug 2023 - Ongoing)
 
 ---
