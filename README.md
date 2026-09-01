@@ -1,9 +1,11 @@
 <h1 align="center">Hey, I'm Arush! 👋</h1>
-<h3 align="center">Smart Contract & Zero-Knowledge Engineer</h3>
+<h3 align="center">Zero-Knowledge Engineer & Smart Contract Developer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/04arush/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/04arush"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://x.com/04arush"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://04arush.github.io"><img src="https://img.shields.io/badge/Portfolio-4E5EE4?style=for-the-badge&logo=Web&logoColor=white"/></a>
   <a href="mailto:04arush@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a><br>
   <a href="https://github.com/04arush/04arush/blob/main/sc_dev_resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-6E40C9?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
 </p>
@@ -12,26 +14,26 @@
 
 ## About Me
 
-I'm a blockchain developer on a deliberate path toward **ZK engineering**. Right now I'm building depth across two tracks in parallel — writing production-grade smart contracts with Foundry, and learning the cryptographic foundations that power ZK systems (SNARKs, STARKs, polynomial commitments, finite fields).
+I'm a blockchain developer specializing in Solidity Smart Contract development and Zero-Knowledge Cryptography. My focus is on DeFi Protocols, on-chain automation, and rigorous testing. I have built and deployed production contracts integrating Chainlink VRF and Automation, and I am authoring ZK circuits in Noir—spanning Merkle Sum Tree proof-of-solvency and undercollateralised credit verification. 
 
-Currently working through **Noir** (Aztec's ZK DSL), **Circom** and ZK circuit design. Long-term, I'm heading toward ZK protocol engineering and ZK rollup infrastructure.
+My on-chain proof verification leverages Barretenberg UltraHonk, and my testing methodology is grounded in security principles like invariant and fuzz testing.
 
-- 🔬 **Actively learning:** Noir · ZK circuits · proof systems · elliptic curve cryptography
-- ⚒️ **Strong foundation:** Solidity · Foundry · DeFi mechanics · Chainlink integrations
-- 🛡️ **Security mindset:** reentrancy, access control, fuzz testing, audit basics
-- 🌍 Open to relocation nationally and internationally · Remote friendly
-- 💼 Targeting **ZK Engineer**, Smart Contract Developer, and Security Auditor roles
+- 🔬 **Actively building:** Noir circuits · Barretenberg UltraHonk verifiers · Merkle Sum Trees · Poseidon Hashing
+- ⚒️ **Strong foundation:** Solidity · Foundry · DeFi mechanics · TypeScript · Ethernaut security basics
+- 🛡️ **Security mindset:** reentrancy, access control, invariant testing, fuzz testing
+- 🌍 Based in New Delhi, India · Open to relocation & Remote friendly
+- 💼 Targeting **ZK Engineer** and **Smart Contract Developer** roles
 
 ---
 
-## ZK Stack
+## ZK & Cryptography Stack
 
 <div align="center">
 
 ![Noir](https://img.shields.io/badge/Noir-6E40C9?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Barretenberg](https://img.shields.io/badge/Barretenberg-4B0082?style=for-the-badge&logo=ethereum&logoColor=white)
-![SNARKs](https://img.shields.io/badge/SNARKs-4B0082?style=for-the-badge&logo=ethereum&logoColor=white)
-![STARKs](https://img.shields.io/badge/STARKs-8B00FF?style=for-the-badge&logo=ethereum&logoColor=white)
+![SNARKs/STARKs](https://img.shields.io/badge/SNARKs%2FSTARKs-4B0082?style=for-the-badge&logo=ethereum&logoColor=white)
+![UltraHonk](https://img.shields.io/badge/UltraHonk-8B00FF?style=for-the-badge&logo=ethereum&logoColor=white)
 ![ZK Rollups](https://img.shields.io/badge/ZK_Rollups-5C2D91?style=for-the-badge&logo=ethereum&logoColor=white)
 
 </div>
@@ -53,7 +55,8 @@ Currently working through **Noir** (Aztec's ZK DSL), **Circom** and ZK circuit d
 <div align="center">
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
@@ -63,15 +66,27 @@ Currently working through **Noir** (Aztec's ZK DSL), **Circom** and ZK circuit d
 
 ## Featured Projects
 
-**[ZK Undercollateralized Lending Protocol](https://github.com/04arush/ZK-Lending-Protocol)** — `Noir · Barretenberg · Solidity · Foundry · Next.js`
-> A Noir circuit proves `credit_score ≥ 700 && income ≥ 50,000` without revealing either value on-chain. Valid ZK proof unlocks a **50% collateral ratio** vs. the DeFi standard of 150%. Proof generation runs fully in-browser via Barretenberg WASM — private inputs never leave the user's device. `UltraVerifier.sol` is generated directly from the compiled circuit. 3-layer Foundry test suite: unit · fuzz (256 runs) · invariant (**128,000 actions, 6 invariants**) · **100% line/branch coverage**.
+**[Zero-Knowledge Proof of Solvency](https://github.com/04arush/ZK-Proof-of-Solvency)** — `Noir · TypeScript · Barretenberg · Solidity · Foundry`
+> A ZK proof-of-solvency protocol letting an asset custodian prove liabilities coverage and honest per-user inclusion without disclosing individual account data. Built on a Merkle Sum Tree where every node commits to a Poseidon hash and a running balance sum. The Noir circuit matches the root sum to declared liabilities and constrains every balance to [0, 2^64) via native range checks to close negative-balance attacks. The UltraHonk proof is consumed on-chain by `proveAndRecord()`, with custom contract logic holding 100% test coverage. 
 
-**[Raffle Contest](https://github.com/04arush/Raffle-Contest)** — `Solidity · Chainlink VRF v2.5 · Chainlink Automation · Foundry`
-> Provably fair on-chain raffle with verifiable randomness and fully autonomous winner selection. HelperConfig pattern for Anvil/Sepolia deployment. Extensively unit + fuzz tested.
+**[ZK-Powered Undercollateralized Lending Protocol](https://github.com/04arush/ZK-Powered-Uncollateralized-Lending-Protocol)** — `Noir · Barretenberg · Solidity · Foundry · Next.js`
+> A DeFi lending protocol enabling a 50% collateral ratio (vs the standard 150%) by verifying off-chain creditworthiness via ZK proofs. The Noir circuit takes credit score and income as private inputs, and `nargo prove` produces a proof validated by an on-chain Barretenberg UltraVerifier. Implements strict Solidity conventions, ReentrancyGuard, and SafeERC20. Test suite includes 23 passing tests covering unit, fuzz (256 runs), and invariant testing (128,000 actions per invariant) utilizing ghost-variable tracking. Deployed to Sepolia across 5 iterations.
 
-**[AMM DEX](https://github.com/04arush/AMM-DEX)** — `Solidity · OpenZeppelin · ERC-20 · Foundry`
-> Constant-product AMM (x·y=k) with LP token minting, 0.3% swap fee, slippage protection, and reentrancy guards. Web3 frontend included. 10 tests passing.
-> 
+**[Decentralized Provably Fair Raffle](https://github.com/04arush/Raffle-Contest)** — `Solidity · Chainlink VRF v2.5 · Chainlink Automation · Foundry`
+> A fully autonomous on-chain raffle utilizing Chainlink VRF v2.5 for verifiable randomness and Chainlink Automation for autonomous upkeep. Features a HelperConfig pattern for chain-aware deployment on Anvil (with a VRFCoordinatorV2_5Mock) and Sepolia. Rigorously tested with 12 unit tests, fuzz testing, and a `skipFork` modifier for VRF-mock tests.
+
+---
+
+## Hackathons & Education
+
+### 🏆 Hackathons
+*   **ETHOnline 2026** - ETHGlobal Async Hackathon (Upcoming)
+*   **Frostbyte Hackathon Finale** — Devpost Online Participation Award. Advanced to the finale by building the ZK-Powered Undercollateralized Lending Protocol.
+*   **Frostbyte Hackathon Qualifier** — Devpost Online Participation & Completion Recognition. Submitted an Employee Payroll Manager powered by Chainlink Automation.
+
+### 🎓 Education
+*   **Indira Gandhi National Open University (IGNOU)** — Bachelor's in Computer Application (Aug 2023 - Ongoing)
+
 ---
 
 ## Certifications
