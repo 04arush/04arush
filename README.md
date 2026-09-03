@@ -7,7 +7,7 @@
   <a href="https://x.com/04arush"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="https://04arush.github.io"><img src="https://img.shields.io/badge/Portfolio-4E5EE4?style=for-the-badge&logo=Web&logoColor=white"/></a>
   <a href="mailto:04arush@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a><br>
-  <a href="https://github.com/04arush/04arush/blob/main/sc_dev_resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-6E40C9?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
+  <a href="https://github.com/04arush/04arush/blob/main/resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-6E40C9?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
 </p>
 
 ---
